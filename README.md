@@ -1,16 +1,22 @@
 # WM-Setup
-# Create an Autostart file for DWM
+## Create an Autostart file for DWM
+```
 #! /bin/bash 
 compton &
 nitrogen --restore &
 dwmblocks &
-# Dependencies
+```
+## Dependencies
+```
 libxft
 ttf-hack
 ttf-joypixels
 st
 dmenu
 tabbed
-# Install
+```
+## Install
+```
 make
 sudo make install
+```
