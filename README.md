@@ -35,12 +35,6 @@ exec dwm
 ```
 ## Keybindings
 ```
-Keybinding
-Action
-
-
-
-
 MODKEY + RETURN
 opens terminal (alacritty is the terminal but can be easily changed)
 
