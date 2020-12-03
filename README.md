@@ -15,6 +15,11 @@ st
 dmenu
 tabbed
 ```
+AUR Packages
+```
+nerd-fonts-complete
+libxft-bgra
+```
 ## Install
 ```
 make
