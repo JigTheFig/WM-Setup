@@ -3,7 +3,7 @@
 Forked from Distrotube's dwm, dwmblocks, st & dmenu
 https://gitlab.com/dwt1/
 
-## Create an Autostart file for DWM
+## Create an Autostart file for DWM in $HOME/.dwm/autostart.sh
 ```
 #! /bin/bash 
 compton &
