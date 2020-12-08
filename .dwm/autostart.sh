@@ -2,4 +2,4 @@
 picom &
 nitrogen --restore &
 dwmblocks &
-pulseeffects -w &
+pulseeffects --gapplication-service &
