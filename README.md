@@ -94,3 +94,7 @@ focusmon +1 (switches focus next monitors)
 MODKEY + ,
 focusmon -1 (switches focus to prev monitors)
 ```
+## PulseEffects Presets
+```
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/JackHack96/PulseEffects-Presets/master/install.sh)"
+```
