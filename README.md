@@ -7,6 +7,8 @@ compton &
 nitrogen --restore &
 dwmblocks &
 ```
+Make sure it's executable, run chmod +x.
+```
 ## Dependencies
 ```
 libxft
