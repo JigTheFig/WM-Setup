@@ -23,6 +23,7 @@ AUR Packages
 ```
 nerd-fonts-complete
 libxft-bgra
+picom-jonaburg-git
 ```
 ## Install
 ```
