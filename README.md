@@ -9,8 +9,9 @@ dwmblocks &
 ```
 Make sure it's executable, run chmod +x.
 ```
+
 ```
-## Dependencies
+## Dependencies & Programs
 ```
 libxft
 ttf-hack
@@ -18,6 +19,7 @@ ttf-joypixels
 st
 dmenu
 tabbed
+pulseeffects
 ```
 AUR Packages
 ```
