@@ -1,5 +1,5 @@
 #! /bin/bash 
-lxpolkit
+lxpolkit &
 picom &
 nitrogen --restore &
 dwmblocks &
