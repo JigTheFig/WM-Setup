@@ -135,7 +135,7 @@ static Key keys[] = {
 	
     /* Apps Launched with SUPER + ALT + KEY */
 	{ MODKEY|Mod1Mask,        XK_b,    spawn,          CMD("tabbed -r 2 surf -pe x '.surf/html/homepage.html'") },
-	{ MODKEY|Mod1Mask,        XK_d,    spawn,          CMD("discord-canary") },
+	{ MODKEY|Mod1Mask,        XK_d,    spawn,          CMD("discord-ptb") },
 	{ MODKEY|Mod1Mask,        XK_e,    spawn,          CMD("dolphin") },
 	{ MODKEY|Mod1Mask,        XK_f,    spawn,          CMD("firefox-beta") },
 	{ MODKEY|Mod1Mask,        XK_m,    spawn,          CMD("thunderbird") },
